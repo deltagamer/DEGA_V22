@@ -1,1 +1,31 @@
-# DEGA_V22
+DEGA: ArmA 2 V-22 Modification
+==============
+
+![V22 Front View](https://raw.githubusercontent.com/deltagamer/DEGA_SUV/main/Release_Notes/20210214143044_1.jpg)
+
+Features
+=========
+* Vanilla Textures
+* Armed & Infantry / Vehicle Transport Versions
+
+Whats Planned
+=========
+
+* Passenger FFV
+* Better Rotor Fold Script
+* More Cockpit Displays
+
+License
+=============
+
+![License](https://www.bohemia.net/assets/img/licenses/APL-SA.png)
+
+Released under [APL-SA](https://www.bohemia.net/community/licenses/arma-public-license-share-alike/)
+
+Credits
+=============
+
+* [Community Upgrade Project](https://www.cup-arma3.org/)
+
+
+Special mention to cup for being a great mod team, learned a lot when involved which has helped me create this mod!

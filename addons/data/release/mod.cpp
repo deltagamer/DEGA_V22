@@ -1,6 +1,6 @@
 
-name = "DEGA: V-22 Osprey v1.0";
-description = "DEGA: V-22 Osprey Modification";
+name = "DEGA: ArmA 2 V-22 Port v1.0";
+description = "DEGA: ArmA 2 V-22 Modification";
 picture = "\dega_vehicles_v22\data\release\logo_dega.paa";
 actionName = "";
 action = "";
@@ -11,5 +11,5 @@ logoSmall = "\dega_vehicles_v22\data\release\logo_dega_small.paa";
 
 tooltip = "Deltagamer: V-22 Osprey";
 tooltipOwned = "Deltagamer: V-22 Osprey - Owned";
-overview = "AH-99E Mohawk: Uparmed AH-99 Blackfoot known as the AH-99E Mohawk, this variant is an experimental Nato aircraft with recent field tests";
+overview = "V-22 Osprey: Uparmed V-22, this variant is an outdated Nato aircraft with recent sales to AAF";
 author = "Deltagamer";

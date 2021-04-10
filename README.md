@@ -1,19 +1,22 @@
 DEGA: ArmA 2 V-22 Modification
 ==============
 
-![V22 Front View](https://raw.githubusercontent.com/deltagamer/DEGA_SUV/main/Release_Notes/20210214143044_1.jpg)
+![V22 Front View](https://raw.githubusercontent.com/deltagamer/DEGA_V22/main/Release_Notes/20210409145347_1.jpg)
 
 Features
 =========
 * Vanilla Textures
 * Armed & Infantry / Vehicle Transport Versions
+* Updated VTOL Flight Model
+* PhysX Support
 
 Whats Planned
 =========
 
 * Passenger FFV
+* Rear Gunner Version
 * Better Rotor Fold Script
-* More Cockpit Displays
+* More Cockpit Work
 
 License
 =============

@@ -185,9 +185,9 @@ class CfgVehicles
 		{
 			tex[]={};
 			mat[]={
-				"dega_vehicles_v22\data\mv22_sklo.rvmat",
-				"dega_vehicles_v22\data\mv22_sklo_damage.rvmat",
-				"dega_vehicles_v22\data\mv22_sklo_damage.rvmat",
+				"a3\data_f\glass_veh.rvmat",
+				"A3\Data_f\Glass_veh_damage.rvmat",
+				"A3\Data_f\Glass_veh_damage.rvmat",
 
 				"dega_vehicles_v22\data\mv22_sklo_in.rvmat",
 				"dega_vehicles_v22\data\mv22_sklo_in_damage.rvmat",
@@ -428,7 +428,16 @@ class CfgVehicles
             class Rotor_hide_source_2_3a : Rotor_hide_source_1_1a {};	
             class Rotor_hide_source_2_3b : Rotor_hide_source_1_1a {};	
             class Rotor_hide_source_engine_1 : Rotor_hide_source_1_1a {};
-            class Rotor_hide_source_engine_2 : Rotor_hide_source_engine_1 {};				
+            class Rotor_hide_source_engine_2 : Rotor_hide_source_engine_1 {};	
+			class HitGlass1 				{source="Hit"; hitpoint="HitGlass1"; 			raw=1;};
+			class HitGlass2: HitGlass1 		{hitpoint = "HitGlass2";};
+			class HitGlass3: HitGlass1 		{hitpoint = "HitGlass3";};
+            class HitGlass4: HitGlass1 		{hitpoint = "HitGlass4";};	
+			class HitGlass5: HitGlass1 		{hitpoint = "HitGlass5";};
+			class HitGlass6: HitGlass1 		{hitpoint = "HitGlass6";};
+            class HitGlass7: HitGlass1 		{hitpoint = "HitGlass7";};	
+			class HitGlass8: HitGlass1 		{hitpoint = "HitGlass8";};
+			class HitGlass9: HitGlass1 		{hitpoint = "HitGlass9";};			
 		};
 		class UserActions
 		{
